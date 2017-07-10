@@ -3,12 +3,24 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-     "test": "node test.js"
-   },
-  "author": "",
+    "test": "node test.js"
+  },
+  "author": "Vadim Yalovenko <yalovek@ya.ru>",
   "license": "ISC",
-  "description": "",
+  "description": "how-to-npm",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yalovek/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yalovek/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/yalovek/how-to-npm#readme",
+  "keywords": [
+    "how-to-npm"
+  ]
 }
